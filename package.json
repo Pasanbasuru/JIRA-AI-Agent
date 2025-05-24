@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@langchain/community": "^0.3.44",
+        "@langchain/openai": "^0.5.11",
+        "@octokit/rest": "^21.1.1",
+        "body-parser": "^2.2.0",
+        "express": "^5.1.0",
+        "fs-extra": "^11.3.0",
+        "glob": "^10.4.5",
+        "openai": "^4.102.0",
+        "simple-git": "^3.27.0"
+    }
+}
