@@ -85,6 +85,3 @@ Configure a **JIRA Webhook** to POST ticket data (key, summary, description) to 
 
 ---
 
-## 🏁 License
-
-MIT License (or your org’s license of choice)
